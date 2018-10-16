@@ -3,6 +3,7 @@
 This is a 'hello world' REST API to use as a starting point for integrating your APIs with the 3scale NodeJS plugin. 
 
 Install the 3scale NodeJS library with ```npm install 3scale```
+See https://www.npmjs.com/package/3scale
 
 # Hello World API
 
