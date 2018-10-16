@@ -1,6 +1,8 @@
-# FeedHenry Hello World MBaaS Server
+# 3scale Hello World NodeJS app
 
-This is a blank 'hello world' FeedHenry MBaaS. Use it as a starting point for building your APIs. 
+This is a 'hello world' REST API to use as a starting point for integrating your APIs with the 3scale NodeJS plugin. 
+
+# Install the 3scale NodeJS library with ```npm install 3scale```
 
 # Group Hello World API
 

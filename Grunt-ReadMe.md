@@ -3,6 +3,7 @@
 This template uses [Grunt](http://gruntjs.com/), the Javascript Task Runner. To use Grunt with this Template App, do the following:
 
 * Install grunt: ```npm install -g grunt-cli```
+* In your App directory, run: ```npm install grunt --save-dev```. This installs Grunt locally for use with this App.
 * In your App directory, run: ```npm install```. This installs Grunt plugins, etc for use with this App.
 
 # Tasks
