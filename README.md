@@ -36,3 +36,8 @@ See https://www.npmjs.com/package/3scale
       schema:
       type: string
       description: Say hello to
+    - in: query
+      name: user_key
+      schema:
+      type: string
+      description: Authorization to 3scale
